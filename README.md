@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Diana Arevalo 👋
 
-<!--
-**Dianaare89/Dianaare89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Business Analytics graduate building my career in data and business systems analysis.
 
-Here are some ideas to get you started:
+I enjoy using data to solve business problems, identify trends, and create clear reports that support decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- SQL
+- Power BI
+- Excel
+- Python
+- Tableau
+
+## What I'm Working On
+I'm continuing to strengthen my SQL, Power BI, Python, and data analysis skills through hands-on projects.
+
+## Featured Projects
+Below you'll find projects demonstrating my experience with SQL, Power BI, Excel, and data analysis.
